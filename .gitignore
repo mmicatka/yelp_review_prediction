@@ -1,3 +1,4 @@
-data/
+data/processed_data
+yelp_review*
 .ipynb_checkpoints
 
